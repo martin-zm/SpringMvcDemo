@@ -1,0 +1,11 @@
+/*.iml
+/target
+/.idea
+/*.log
+/*.ipr
+/*.iws
+/weblog
+.project
+.classpath
+.settings/
+/bin/
